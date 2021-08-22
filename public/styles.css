@@ -22651,7 +22651,7 @@ video {
 }
 
 .font-body {
-  font-family: Nunito Sans;
+  font-family: Nunito Sans, sans-serif;
 }
 
 .text-xs {
@@ -54774,7 +54774,7 @@ video {
   }
 
   .sm\:font-body {
-    font-family: Nunito Sans;
+    font-family: Nunito Sans, sans-serif;
   }
 
   .sm\:text-xs {
@@ -86533,7 +86533,7 @@ video {
   }
 
   .md\:font-body {
-    font-family: Nunito Sans;
+    font-family: Nunito Sans, sans-serif;
   }
 
   .md\:text-xs {
@@ -118292,7 +118292,7 @@ video {
   }
 
   .lg\:font-body {
-    font-family: Nunito Sans;
+    font-family: Nunito Sans, sans-serif;
   }
 
   .lg\:text-xs {
@@ -150051,7 +150051,7 @@ video {
   }
 
   .xl\:font-body {
-    font-family: Nunito Sans;
+    font-family: Nunito Sans, sans-serif;
   }
 
   .xl\:text-xs {
@@ -181810,7 +181810,7 @@ video {
   }
 
   .\32xl\:font-body {
-    font-family: Nunito Sans;
+    font-family: Nunito Sans, sans-serif;
   }
 
   .\32xl\:text-xs {

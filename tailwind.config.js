@@ -9,7 +9,7 @@ module.exports = {
         tertiary: '#7E7C7C'
       },
       fontFamily: {
-        body: ['Nunito Sans'],
+        body: ["Nunito Sans", 'sans-serif'],
       }
     },
   },
