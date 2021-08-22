@@ -10,6 +10,7 @@ module.exports = {
       },
       fontFamily: {
         body: ["Nunito Sans", 'sans-serif'],
+        main: ["Poppins", 'sans-serif']
       }
     },
   },
